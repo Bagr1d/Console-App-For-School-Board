@@ -1,0 +1,12 @@
+Szkoła średnia numer 2
+
+1.Oskar		Ziemniak	
+2.Michał	Piskorski
+3.Bartosz	Juchniewicz
+4.Maja		Dyrcz
+5.Przemysław	Zambrzycki
+6.Norbert	Stolarz
+7.Arek		Łoś
+8.Monika	Smolarek
+9.Grześiek	Brzozowski	
+10.Amelia	Walczak

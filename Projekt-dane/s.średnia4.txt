@@ -1,0 +1,12 @@
+Szkoła średnia numer 4
+
+1.Jakub		Skrzypiec
+2.Patryk	Świerczewski
+3.Mikołaj	Kasperczyk
+4.Ania		Józefiak
+5.Paweł		Malanowski
+6.Krzysztof	Rogiński
+7.Marcelina	Wilk
+8.Nikodem	Kozielski
+9.Kacper	Rajkowski
+10.Monika	Augustyn

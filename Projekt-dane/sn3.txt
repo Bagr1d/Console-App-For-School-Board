@@ -1,0 +1,7 @@
+Nauczyciele - szkoła średnia numer 3
+
+1.Paulina 	Jaworska
+2.Urszula 	Kucharska
+3.Radosław 	Piotrowski
+4.Ernest 	Dąbrowski
+5.Przemysław 	Mazurek

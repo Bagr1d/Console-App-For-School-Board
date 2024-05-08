@@ -1,0 +1,12 @@
+Szkoła wyższa numer 5
+
+1.Celina 	Błaszczyk
+2.Stefania 	Sawicka
+3.Alisa 	Błaszczyk
+4.Idalia 	Głowacka
+5.Justyna 	Lewandowska
+6.Marian 	Pietrzak
+7.Grzegorz 	Wojciechowski
+8.Karol 	Nowak
+9.Edward 	Duda
+10.Kewin 	Zieliński

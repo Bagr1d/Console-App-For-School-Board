@@ -1,0 +1,9 @@
+Wykładowcy - szkoła wyższa numer 5
+
+1.Bartłomiej 	Włodarczyk
+2.Bolesław 	Kamiński
+3.Borys 	Walczak
+4.Maja 		Stępień
+5.Iga 		Czerwińska
+
+

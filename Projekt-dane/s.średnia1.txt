@@ -1,0 +1,12 @@
+Szkoła średnia numer 1
+
+1.Andrzej	Siedlecki	
+2.Antoni	Derkowski
+3.Jarosław	Kreft
+4.Mateusz	Zięcina
+5.Krzysztof	Polewski
+6.Krystyna	Stenka
+7.Kaja		Wiewióra
+8.Przemysław	Zioło
+9.Bogdan	Sibiński
+10.Zbigniew	Jakubowski

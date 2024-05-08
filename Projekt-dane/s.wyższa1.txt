@@ -1,0 +1,12 @@
+Szkoła wyższa numer 1
+
+1.Konrad 	Mazur
+2.Olaf		Jakubowski
+3.Amadeusz 	Błaszczyk
+4.Oktawian 	Wysocki
+5.Gracjan 	Szulc
+6.Artur 	Chmielewski
+7.Leszek 	Stępień
+8.Andrzej 	Kucharski
+9.Leonardo 	Bąk
+10.Józef 	Szczepański

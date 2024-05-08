@@ -1,0 +1,12 @@
+Szkoła średnia numer 5
+
+1.Aleksandra	Ziętara
+2.Natalia	Wyrwa
+3.Miłosz	Belka
+4.Alicja	Bojar
+5.Antoni	Szmigielski
+6.Bogusław	Klimowicz
+7.Magdalena	Dzięcioł
+8.Teresa	Łyko
+9.Józef		Suchomski
+10.Tadeusz	Studziński

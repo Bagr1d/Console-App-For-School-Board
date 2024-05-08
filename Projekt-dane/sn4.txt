@@ -1,0 +1,10 @@
+Nauczyciele - szkoła średnia numer 4
+
+1.Ludwik 	Sikora
+2.Konrad 	Stępień
+3.Maurycy 	Nowak
+4.Alexander 	Witkowski
+5.Stanisława 	Kamińska
+
+
+

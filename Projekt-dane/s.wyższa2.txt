@@ -1,0 +1,12 @@
+Szkoła wyższa numer 2
+
+1.Agata 	Mróz
+2.Oksana 	Kamińska
+3.Magda 	Jasińska
+4.Julianna 	Sikora
+5.Blanka 	Sikorska
+6.Felicja 	Mazurek
+7.Milena 	Jaworska
+8.Arleta 	Pawlak
+9.Dagmara 	Walczak
+10.Anna 	Lewandowska

@@ -1,0 +1,12 @@
+Szkoła wyższa numer 3
+
+1.Hortensja 	Kołodziej
+2.Klementyna 	Włodarczyk
+3.Zofia 	Kozłowska
+4.Józefa 	Górska
+5.Eleonora 	Kalinowska
+6.Cyprian 	Witkowski
+7.Aleks 	Krawczyk
+8.Mieszko 	Szulc
+9.Patryk 	Wysocki
+10.Natan 	Szymczak

@@ -1,0 +1,12 @@
+Szkoła wyższa numer 4
+
+1.Dorian 	Sawicki
+2.Filip 	Kucharski
+3.Piotr 	Urbańska
+4.Marian 	Cieślak
+5.Marcel 	Borkowski
+6.Edyta 	Mazurek
+7.Wioletta 	Błaszczyk
+8.Adela 	Dąbrowska
+9.Anita 	Kowalczyk
+10.Faustyna 	Wójcik

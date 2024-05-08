@@ -1,0 +1,12 @@
+Szkoła średnia numer 3
+
+1.Tomasz	Gawęda
+2.Aleksandra	Pawluk
+3.Bożena	Roszak
+4.Jarek		Landowski
+5.Amadeusz	Kępski
+6.Paulina	Zaremba
+7.Dominik	Skwarczyński
+8.Lucyna	Czarna
+9.Ola		Rydel
+10.Damian	Jedynak
